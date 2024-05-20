@@ -1,6 +1,4 @@
-package Pesquisa;
-
-import org.w3c.dom.ls.LSOutput;
+package List.Pesquisa;
 
 import java.util.ArrayList;
 import java.util.List;
